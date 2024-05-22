@@ -1,0 +1,146 @@
+
+.create-project{
+    width: 100%;
+    margin: 0;
+    background-color:rgb(243, 243, 245);
+}
+
+.header p{
+    
+    padding: 30px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+.part2{
+    width: 100%;
+}
+
+.projectName input{
+
+    height: 60px;
+    width: 500px;
+    margin: 20px;
+    border: 1px solid rgb(151, 149, 149);
+border-radius: 10px;
+padding-left: 10px;
+}
+
+.header{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(77, 77, 189);
+    border-radius: 0px 0px 0px 40px;
+}
+
+.projectInfo{
+
+    background-color: #fff;
+    border: 1px solid rgb(249, 247, 247);
+    max-width: 95%;
+    height: 600px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left: 25px;
+    
+}
+
+.projectInfo button{
+    background-color: rgb(52, 52, 173);
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-top: 25px;
+    margin-right: 100px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.projectName div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.selecttags1{
+
+    /* background-color: rebeccapurple; */
+    height: 100px;
+    padding-top: 80px;  
+  
+}
+
+.selecttags1 select{
+ /* padding: 15px; */
+ padding-right: 150px;
+ padding-left: 10px;
+ padding-top: 15px;
+
+ padding-bottom: 15px;
+ margin-left: 100px;
+ border-radius: 10px;
+
+}
+
+
+.selecttags2{
+
+    /* background-color: rebeccapurple; */
+    height: 100px;
+    padding-top: 20px;  
+  
+}
+
+.selecttags2 select{
+ /* padding: 15px; */
+ padding-right: 137px;
+ padding-left: 10px;
+ padding-top: 15px;
+
+ padding-bottom: 15px;
+ margin-left: 100px;
+ border-radius: 10px;
+
+}
+
+
+.selecttags3{
+
+    /* background-color: rebeccapurple; */
+    height: 100px;
+    padding-top: 20px;  
+  
+}
+
+.selecttags3 select{
+ /* padding: 15px; */
+ padding-right: 139px;
+ padding-left: 10px;
+ padding-top: 15px;
+
+ padding-bottom: 15px;
+ margin-left: 100px;
+ border-radius: 10px;
+
+}
+
+.selecttags3 input{
+    /* background-color: red; */
+    padding-right: 125px;
+ padding-left: 10px;
+ padding-top: 15px;
+
+ padding-bottom: 15px;
+ margin-left: 97px;
+ border-radius: 10px;
+
+ font-size: 15px;
+
+}
+
+.selecttags3 input {
+
+}

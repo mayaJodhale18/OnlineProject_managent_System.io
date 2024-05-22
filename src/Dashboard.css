@@ -1,0 +1,61 @@
+
+.dashboard{
+
+    background-color:rgb(243, 243, 245);
+    height: 750px;
+}
+.dashboardName{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(53, 53, 162);
+    border-radius: 0px 0px 0px 50px;
+    
+}
+
+.dashboardName p{
+    color: #fff;
+    font-size: 20px;
+    padding: 35px;
+    font-weight: 600;
+}
+
+
+.section2{
+
+    background-color: #fcfafa;
+    height: 410px;
+    width: 700px;
+    border: 1px solid rgb(238, 233, 233);
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.section1{
+
+    display: flex;
+    width: 100%;
+}
+
+.cards{
+
+    display: flex;
+    width: 100%;
+    /* border: 1px solid black; */
+    justify-content: space-around;
+}
+
+.card{
+
+    height: 60px;
+    width: 200px;
+    background: #fff;
+    border-radius: 2px;
+    border-left: 5px solid rgb(34, 180, 229);
+    margin-top: 20px;
+    padding: 10px;
+    
+    
+
+
+    /* background-color: rebeccapurple; */
+
+}
